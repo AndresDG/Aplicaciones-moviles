@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#006064"
     tools:context=".LogIn">
 
     <ImageView
@@ -60,6 +61,7 @@
         android:layout_height="46dp"
         android:layout_marginTop="44dp"
         android:layout_marginBottom="204dp"
+        android:background="#85D0D3"
         android:onClick="ingresar"
         android:text="Log In"
         app:layout_constraintBottom_toBottomOf="parent"
